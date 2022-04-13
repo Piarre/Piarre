@@ -1,6 +1,6 @@
 ![Piarre's GitHub stats](https://github-readme-stats.vercel.app/api?username=piarre&show_icons=true&hide=prs,contribs,issues&theme=onedark)
 
-![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/Piarre/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **Piarre/Piarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
