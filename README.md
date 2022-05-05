@@ -1,6 +1,6 @@
 ![Piarre's GitHub stats](https://github-readme-stats.vercel.app/api?username=piarre&show_icons=true&hide=prs,contribs,issues&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piarre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piarre&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Piarre/Piarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
