@@ -5,3 +5,5 @@
 ![Piarre's GitHub stats](https://github-readme-stats.vercel.app/api?username=piarre&show_icons=true&hide=issues&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piarre&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br /> 
+![](https://komarev.com/ghpvc/?username=Piarre&color=orange)
