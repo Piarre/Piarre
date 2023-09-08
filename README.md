@@ -6,7 +6,7 @@
     <img alt="image" src="https://github-readme-stats.vercel.app/api?username=Piarre&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/Piarre">
-    <img alt="image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piarre&langs_count=8&theme=tokyonight&hide_border=true&layout=compact"/>
+    <img alt="image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piarre&langs_count=10&theme=tokyonight&hide_border=true&layout=compact"/>
   </a>
 </p>
 
