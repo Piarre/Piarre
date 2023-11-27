@@ -13,7 +13,7 @@
 <h3 align="center">Langages, frameworks, tools... ⬇️</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,go,powershell,swift,java,py,bash,spring,vite,react,nextjs,tailwind,nodejs,vscode,visualstudio,ae,idea,androidstudio,blender,github,git,discord,bots,docker,electron,express,prisma,mongodb,mysql,firebase,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=ts,js,go,powershell,swift,java,py,bash,spring,vite,react,nextjs,tailwind,nodejs,vscode,visualstudio,ae,idea,androidstudio,blender,github,git,discord,bots,docker,electron,express,linux,prisma,mongodb,mysql,firebase,postman&perline=8" />
   </a>
 </p>
 
