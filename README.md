@@ -1,4 +1,4 @@
-<h1 align="center">pierre, 17 yo PHP hater</h1>
+<h1 align="center">pierre 17 yo, PHP hater</h1>
 <br>
 
 <p align="center">
