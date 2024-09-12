@@ -1,7 +1,11 @@
 <h1 align="center">pierre 17 yo, PHP hater</h1>
+
+
+<h2>En recherche d'une PFMP (stage) du 04 novembre au 20 décembre 2024</h2>
 <br>
 
-<p align="center">
+<div>
+  <p align="center">
   <a href="https://github.com/Piarre">
     <img alt="image" src="https://github-readme-stats.vercel.app/api?username=Piarre&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   </a>
@@ -23,3 +27,4 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piarre_&hide=TEXT,TOML,XML,&title_color=FFF&theme=tokyonight&hide_border=true">
   </a>
 </p>
+</div>
