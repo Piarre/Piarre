@@ -1,9 +1,5 @@
 <h1 align="center">pierre 17 yo, PHP hater</h1>
 
-
-<h2>En recherche d'une PFMP (stage) du 04 novembre au 20 décembre 2024</h2>
-<br>
-
 <div>
   <p align="center">
   <a href="https://github.com/Piarre">
