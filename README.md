@@ -3,10 +3,10 @@
 <div>
   <p align="center">
   <a href="https://github.com/Piarre">
-    <img alt="image" src="https://stats.piarre.app/api?username=Piarre&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+    <img alt="image" src="https://stats.piarre.app/api?username=Piarre&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&exclude_repo=github-readme-stats" />
   </a>
   <a href="https://github.com/Piarre">
-    <img alt="image" src="https://stats.piarre.app/api/top-langs/?username=Piarre&langs_count=8&theme=tokyonight&hide_border=true&layout=compact"/>
+    <img alt="image" src="https://stats.piarre.app/api/top-langs/?username=Piarre&langs_count=8&theme=tokyonight&hide_border=true&layout=compact&exclude_repo=github-readme-stats"/>
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 <h3 align="center">Coding stats of the week ⬇️</h3>
 <p align="center">
   <a>
-    <img src="https://stats.piarre.app/api/wakatime?username=Piarre_&hide=TEXT,TOML,XML,&title_color=FFF&theme=tokyonight&hide_border=true">
+    <img src="https://stats.piarre.app/api/wakatime?username=Piarre_&hide=TEXT,TOML,XML,&title_color=FFF&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats">
   </a>
 </p>
 </div>
