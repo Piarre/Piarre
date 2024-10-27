@@ -20,7 +20,7 @@
 <h3 align="center">Coding stats of the week ⬇️</h3>
 <p align="center">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piarre_&hide=TEXT,TOML,XML,&title_color=FFF&theme=tokyonight&hide_border=true">
+    <img src="https://stats.piarre.app/api/wakatime?username=Piarre_&hide=TEXT,TOML,XML,&title_color=FFF&theme=tokyonight&hide_border=true">
   </a>
 </p>
 </div>
