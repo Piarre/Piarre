@@ -3,13 +3,12 @@
 <div>
   <p align="center">
   <a href="https://github.com/Piarre">
-    <img alt="image" src="https://github-readme-stats-alpha-five-88.vercel.app/api?username=Piarre&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&exclude_repo=github-readme-stats" />
+    <img alt="Pierre's GitHub Stats" src="https://github-readme-stats-alpha-five-88.vercel.app/api?username=Piarre&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&exclude_repo=github-readme-stats" />
   </a>
   <a href="https://github.com/Piarre">
-    <img alt="image" src="https://github-readme-stats-alpha-five-88.vercel.app/api/top-langs/?username=Piarre&langs_count=8&theme=tokyonight&hide_border=true&layout=compact&exclude_repo=github-readme-stats"/>
+    <img alt="Pierre's Top Languages" src="https://github-readme-stats-alpha-five-88.vercel.app/api/top-langs/?username=Piarre&langs_count=8&theme=tokyonight&hide_border=true&layout=compact&exclude_repo=github-readme-stats"/>
   </a>
 </p>
-
 <h3 align="center">Langages, frameworks, tools... ⬇️</h3>
 <p align="center">
   <a href="https://skillicons.dev">
