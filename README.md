@@ -1,4 +1,5 @@
 <h1 align="center">pierre 18 yo, PHP hater</h1>
+<h2 align="center">Cherche une alternance en DevOps</h1>
 
 <div>
   <p align="center">
