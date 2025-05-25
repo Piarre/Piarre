@@ -11,7 +11,7 @@
   </a>
 </p>
 
-### 🚀 Stack, outils & langages
+### 🚀 Stack, tools & langages
 
 ![Langages](https://skillicons.dev/icons?i=ts,js,rust,go,swift,java,py,bash,php,powershell&perline=10)
 <br/>
@@ -23,6 +23,6 @@
 
 ---
 
-### 📈 Coding stats de la semaine
+### 📈 Coding stats
 
 ![WakaTime Stats](https://github-readme-stats-alpha-five-88.vercel.app/api/wakatime?username=Piarre_&hide=TEXT,TOML,XML&title_color=FFF&theme=tokyonight&hide_border=true)
