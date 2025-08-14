@@ -15,7 +15,7 @@
 
 ![Langages](https://skillicons.dev/icons?i=ts,js,rust,go,swift,java,py,bash,php,powershell&perline=10)
 <br/>
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,spring,electron&perline=10)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,spring,django,electron&perline=10)
 <br/>
 ![Outils](https://skillicons.dev/icons?i=linux,docker,git,github,prisma,mongodb,mysql,firebase&perline=10)
 <br/>
