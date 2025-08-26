@@ -1,5 +1,4 @@
 # 🧑‍💻 Pierre — 18 yo, PHP hater
-### 🎯 En recherche d’une alternance en DevOps
 
 ---
 <p align="center">
