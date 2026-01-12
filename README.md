@@ -21,10 +21,9 @@
 
 ![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,postman,vercel&perline=10)
 
----
+<!-- ---
 
 ### 📈 Coding stats
 
 ![WakaTime Stats](https://github-readme-stats-alpha-five-88.vercel.app/api/wakatime?username=kepa01_&hide=TEXT,TOML,XML&title_color=FFF&theme=tokyonight&hide_border=true)
-
-
+ -->
