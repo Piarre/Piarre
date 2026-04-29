@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Pierre 🚀</h1>
-  <p>18 y/o Dev/DevOps · Milleis Banque Privée</p>
+  <p>19 y/o Dev/DevOps · Milleis Banque Privée</p>
 </div>
 
 <br />
